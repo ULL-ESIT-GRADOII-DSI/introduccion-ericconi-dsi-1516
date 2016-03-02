@@ -14,10 +14,10 @@
 
 ### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/)
+* [Página Eric ](http://alu0100786330.github.io/pags/dsi.html)
+* [Página Constanza](http://alu0100673647.github.io/dsi.html)
 
 ### Ejecutar las pruebas
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html)
+* [Página de la Práctica 2](http://alu0100786330.github.io/introduccion-ericconi-dsi-1516/)
+* [Página de la organización](http://ull-esit-gradoii-dsi.github.io/introduccion-ericconi-dsi-1516/i)
