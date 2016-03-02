@@ -27,3 +27,7 @@ th{
 #temp{
   margin-left: 2em;
 }
+
+input{
+  text-align: right;
+}
