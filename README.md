@@ -22,5 +22,3 @@
 * [Página de la Práctica 2](http://alu0100786330.github.io/introduccion-ericconi-dsi-1516/)
 * [Página de la organización](http://ull-esit-gradoii-dsi.github.io/introduccion-ericconi-dsi-1516/i)
 
-### Guión de la Práctica 2 
-* [Guión] (https://campusvirtual.ull.es/1516/mod/page/view.php?id=177211)
