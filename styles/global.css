@@ -19,4 +19,11 @@ th{
   color: white;
   font-style: italic;
 }
-  
+
+#original{
+  margin-left: 1em;
+}
+
+#temp{
+  margin-left: 2em;
+}
