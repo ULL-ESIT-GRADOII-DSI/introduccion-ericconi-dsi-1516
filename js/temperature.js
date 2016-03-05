@@ -3,7 +3,7 @@ function calculate() {
   var result;
   var temp = original.value;
   /*var regexp = /([-+]?\d+(?:\.\d*)?)\s*([fFcC])/;*/
-   var regexp = /^\s*([-+]?\d+(?:\.\d+)?(?:e[+-]?\d+)?)\s*(([cCfF])((e|el|els|elsi|elsiu|elsius)|(a|ar|are|aren|arenh|arenhe|arenhei|arenheit))?)\s*$/;
+  var regexp = /^\s*([-+]?\d+(?:\.\d+)?(?:e[+-]?\d+)?)\s*(([cCfF])((e|el|els|elsi|elsiu|elsius)|(a|ar|are|aren|arenh|arenhe|arenhei|arenheit))?)\s*$/;
 
 
   var m = temp.match(regexp);
@@ -23,6 +23,6 @@ function calculate() {
     converted.innerHTML = result;
   }
   else {
-    converted2.innerHTML = "ERROR! Try something like '-4.2C' instead";
+    converted.innerHTML = "ERROR! Try something like '-4.2C' instead";
   }
 }
