@@ -1,4 +1,3 @@
-
 h1 {
 
 font-style: italic;
@@ -32,14 +31,7 @@ th{
 input{
   text-align: right;
 }
-#converted{
-  color: green;
-  font-size: 1em;
-}
-#converted2{
-  color:red;
-  font-size: 1em;
-}
+
 ul {
     list-style-position: inside;
 }
@@ -61,4 +53,4 @@ div.pie{
             clear: both;
             text-align: center;
             color: #fff;
-        }
+}
