@@ -31,3 +31,11 @@ th{
 input{
   text-align: right;
 }
+#converted{
+  color: green;
+  font-size: 2em;
+}
+#converted2{
+  color:red;
+  font-size: 2em;
+}
