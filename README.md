@@ -20,6 +20,6 @@
 ### Ejecutar las pruebas
 
 * [Página de la Práctica 2](http://alu0100786330.github.io/introduccion-ericconi-dsi-1516/)
-* [Página de la organización](http://ull-esit-gradoii-dsi.github.io/introduccion-ericconi-dsi-1516/i)
+* [Página de la organización](http://ull-esit-gradoii-dsi.github.io/introduccion-ericconi-dsi-1516/)
 * [Guión Campus Virtual] (https://campusvirtual.ull.es/1516/mod/page/view.php?id=177211)
 * [Repositorio donde se trabajó] (https://github.com/alu0100786330/introduccion-ericconi-dsi-1516)
